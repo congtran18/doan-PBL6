@@ -1,0 +1,30 @@
+{
+  "name": "be-finalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend": "nodemon index"
+  },
+  "author": "hoangninh",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.28.2",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "http-status": "^1.5.0",
+    "joi": "^17.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.0",
+    "multer": "^1.4.2",
+    "react-bootstrap-icons": "^1.5.0",
+    "uuid": "^8.3.2",
+    "validator": "^13.6.0",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}

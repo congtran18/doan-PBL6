@@ -1,0 +1,4 @@
+- Create UI
+- Create basic design
+- Creat detail design
+...
